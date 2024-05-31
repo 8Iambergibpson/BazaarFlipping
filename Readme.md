@@ -1,0 +1,1 @@
+Uses the latest Hypixel Skyblock Bazaar prices to calculate the most profitable items for Bazaar "flipping" (putting in a buy order and a higher sell offer for the same items at the same time).
